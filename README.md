@@ -6,8 +6,24 @@
 </div>  
 
 
-### My Repository Topics 
-  
+# My Repository Topics 
+
+I have created many differnt repositories based on different subjects, courses, and projects. I have currently categorised these repositories into two main groups. The first group is from my university courses and textbook readings that I have done on the subjects. The second group is based on personal projects that I have worked on or am currently working on. 
+
+## University Courses and Textbooks
+
+### Data Analytics
+
+### Machine Learning
+
+### Math
+
+### Financial Crime (Fincrime)
+
+
+## Personal Projects
+
+
 
 ### <div align="center">I'm Hussain, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
