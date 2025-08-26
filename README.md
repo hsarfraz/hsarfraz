@@ -30,7 +30,7 @@ I have created many differnt repositories based on different subjects, courses, 
 * University Course () -[link]()
 
 ### Financial Crime (Fincrime)
-* Textbook () -[link]()
+* Textbook (Money Laundering: A Guide for Criminal Investigators, Third Edition by John Madinger) -[link](https://github.com/hsarfraz/finncrime-textbook-notes/tree/main)
 
 ### Cybersecurity
 
