@@ -21,12 +21,19 @@ I have created many differnt repositories based on different subjects, courses, 
 
 
 ### Machine Learning
+* University Course (CSE-41287: Linear Algebra for Machine Learning) -[link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/tree/main)
 
 ### Math
+* University Course () -[link]()
+* University Course () -[link]()
+* University Course () -[link]()
+* University Course () -[link]()
 
 ### Financial Crime (Fincrime)
+* Textbook () -[link]()
 
 ### Cybersecurity
+
 
 
 ## Personal Projects
