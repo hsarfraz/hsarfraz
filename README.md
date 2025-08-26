@@ -14,6 +14,10 @@ I have created many differnt repositories based on different subjects, courses, 
 
 ### Data Analytics
 * Textbook (Quantitative Social Science Data with R: An Introduction by Brian J. Fogarty) -[link](https://github.com/hsarfraz/data-analysis-textbook-notes/tree/main)
+* University Course () -[link]()
+* University Course () -[link]()
+* University Course () -[link]()
+* University Course () -[link]()
 
 
 ### Machine Learning
