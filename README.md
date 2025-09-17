@@ -24,6 +24,7 @@ I have created many differnt repositories based on different subjects, courses, 
 
 ### Machine Learning
 * University Course (CSE-41287: Linear Algebra for Machine Learning) -[link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/tree/main)
+* edx Harvardx Tiny ML
 
 ### Math
 * University Course () -[link]()
@@ -31,14 +32,22 @@ I have created many differnt repositories based on different subjects, courses, 
 * University Course () -[link]()
 * University Course () -[link]()
 
-### Financial Crime (Fincrime)
+### Finance
+
+#### Financial Crime (Fincrime)
 * Textbook (Money Laundering: A Guide for Criminal Investigators, Third Edition by John Madinger) -[link](https://github.com/hsarfraz/finncrime-textbook-notes/tree/main)
+
+#### Venture Capital (VC)
+* Start-up Investing edx course
+* Coursera University of Virginia Finance Course 
 
 ### Cybersecurity
 * ISC2 Certified in Cybersecurity (CC) Exam -[link]()
 * Google Coursera Cybersecurity Certificate -[link]()
 
-
+### Healthcare Data Science
+* DHIS2 Project/deployment -[link]()
+* Cambridge Halthcare Data Science Micro Masters -[link]()
 
 ## Personal Projects
 
