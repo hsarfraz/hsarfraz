@@ -50,6 +50,7 @@ I have created many differnt repositories based on different subjects, courses, 
 * Cambridge Halthcare Data Science Micro Masters -[link]()
 
 ### Digital Marketing/Ecommerce
+* Google Coursera Certificate -[link]()
 
 ## Personal Projects
 
