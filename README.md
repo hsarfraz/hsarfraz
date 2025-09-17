@@ -18,6 +18,8 @@ I have created many differnt repositories based on different subjects, courses, 
 * University Course () -[link]()
 * University Course () -[link]()
 * University Course () -[link]()
+* Google Data Analytics Certificate () -[link]()
+* Google Advanced Data Analytics Certificate () -[link]()
 
 
 ### Machine Learning
@@ -34,6 +36,7 @@ I have created many differnt repositories based on different subjects, courses, 
 
 ### Cybersecurity
 * ISC2 Certified in Cybersecurity (CC) Exam -[link]()
+* Google Coursera Cybersecurity Certificate -[link]()
 
 
 
