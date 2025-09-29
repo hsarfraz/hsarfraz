@@ -21,7 +21,6 @@ I have created many differnt repositories based on different subjects, courses, 
 * Google Data Analytics Certificate () -[link]()
 * Google Advanced Data Analytics Certificate () -[link]()
 
-
 ### Machine Learning
 * University Course (CSE-41287: Linear Algebra for Machine Learning) -[link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/tree/main)
 * edx Harvardx Tiny ML
@@ -32,26 +31,18 @@ I have created many differnt repositories based on different subjects, courses, 
 * University Course () -[link]()
 * University Course () -[link]()
 
-### Finance
-
-#### Financial Crime (Fincrime)
-* Textbook (Money Laundering: A Guide for Criminal Investigators, Third Edition by John Madinger) -[link](https://github.com/hsarfraz/finncrime-textbook-notes/tree/main)
-
-#### Venture Capital (VC)
-* Start-up Investing edx course
-* Coursera University of Virginia Finance Course 
-
 ### Cybersecurity
 * ISC2 Certified in Cybersecurity (CC) Exam -[link]()
 * Google Coursera Cybersecurity Certificate -[link](https://github.com/hsarfraz/google-coursera-cybersecurity-certificate)
 * Textbook (Linux Operations and Administration by Alfred Basta) -[link](https://github.com/hsarfraz/linux-operations-and-administration)
 
+### Financial Crime (Fincrime)
+* Textbook (Money Laundering: A Guide for Criminal Investigators, Third Edition by John Madinger) -[link](https://github.com/hsarfraz/finncrime-textbook-notes/tree/main)
+* Coursera University of Virginia Finance Course 
+
 ### Healthcare Data Science
 * DHIS2 Project/deployment -[link]()
 * Cambridge Halthcare Data Science Micro Masters -[link]()
-
-### Digital Marketing/Ecommerce
-* Google Coursera Certificate -[link]()
 
 ## Personal Projects
 
