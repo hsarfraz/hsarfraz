@@ -34,14 +34,6 @@ I have created many differnt repositories based on different subjects, courses, 
 * Google Coursera Cybersecurity Certificate -[link](https://github.com/hsarfraz/google-coursera-cybersecurity-certificate)
 * Textbook (Linux Operations and Administration by Alfred Basta) -[link](https://github.com/hsarfraz/linux-operations-and-administration)
 
-### Financial Crime (Fincrime)
-* Textbook (Money Laundering: A Guide for Criminal Investigators, Third Edition by John Madinger) -[link](https://github.com/hsarfraz/finncrime-textbook-notes/tree/main)
-* Coursera University of Virginia Finance Course 
-
-### Healthcare Data Science
-* DHIS2 Project/deployment -[link]()
-* Cambridge Halthcare Data Science Micro Masters -[link]()
-
 ## Personal Projects
 
 ### Machine Learning
