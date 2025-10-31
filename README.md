@@ -1,5 +1,3 @@
-
-
 ### Welcome to my GitHub page!  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -34,7 +32,11 @@ I have created many differnt repositories based on different subjects, courses, 
 * Google Coursera Cybersecurity Certificate -[link](https://github.com/hsarfraz/google-coursera-cybersecurity-certificate)
 * Textbook (Linux Operations and Administration by Alfred Basta) -[link](https://github.com/hsarfraz/linux-operations-and-administration)
 
+## Guided Projects
+
 ## Personal Projects
+
+* End-to-End Mortgage Document Processing Pipeline using OCR and Machine Learning -[link]()
 
 ### Machine Learning
 * 
