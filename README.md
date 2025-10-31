@@ -1,4 +1,4 @@
-## Personal Projects
+## Projects
 
 * End-to-End Mortgage Document Processing Pipeline using OCR and Machine Learning -[link](https://github.com/hsarfraz/Mortgage-Document-Processing-Pipeline-using-OCR-and-Machine-Learning) 
 
