@@ -4,6 +4,8 @@
 
 ## Guided Projects
 
+* Fincrime Online Payment Fraud Detection -[link](https://github.com/hsarfraz/fincrime-online-payment-fraud-detection-)
+
 
 # My Repository Topics 
 
