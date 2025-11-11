@@ -1,8 +1,8 @@
-## Projects
+# Projects
 
 * End-to-End Mortgage Document Processing Pipeline using OCR and Machine Learning -[link](https://github.com/hsarfraz/Mortgage-Document-Processing-Pipeline-using-OCR-and-Machine-Learning) 
 
-## Guided Projects
+# Guided Projects
 
 * Fincrime Online Payment Fraud Detection -[link](https://github.com/hsarfraz/fincrime-online-payment-fraud-detection-)
 
