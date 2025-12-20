@@ -16,9 +16,7 @@ I have created many differnt repositories based on different subjects, courses, 
 ### Data Analytics
 * Textbook (Quantitative Social Science Data with R: An Introduction by Brian J. Fogarty) -[link](https://github.com/hsarfraz/data-analysis-textbook-notes/tree/main)
 * University Course (DATA 1010: Introduction to Data Analytics) -[link](https://github.com/hsarfraz/DATA-1010-Introduction-to-Data-Analytics/tree/main)
-* University Course () -[link]()
 * University Course (DATA 3100: Introduction to Statistical Methods) -[link](https://github.com/hsarfraz/DATA-3100-Introduction-to-Statistical-Methods)
-* University Course () -[link]()
 
 ### Machine Learning
 * University Course (CSE-41287: Linear Algebra for Machine Learning) -[link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/tree/main)
