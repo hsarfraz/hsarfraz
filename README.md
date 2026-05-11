@@ -38,7 +38,15 @@ I have created many differnt repositories based on different subjects, courses, 
 ### Machine Learning
 * 
 
+# Personal Documentation of IT and Data Analytics Concepts
 
+## IT
+
+* How to install python in visual studio code
+
+## Statistics
+
+* Different types of variables
 
 ### <div align="center">I'm Hussain, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
